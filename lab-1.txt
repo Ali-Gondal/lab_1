@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> my personal web </title>
+<style>
+body {
+    background color: black;
+    text-allignment: side;
+    color: white;
+    font-family: Times new roman, Arial;
+
+}
+</body>
+</style>
+</head>
+<body>
+    <img src="avatar.png" alt="Avatar" style="width:250px">
+    <h2>
+        <b>\
+            Salam, My name is Ali Hassan. I'm student of BCS-5B studying in COMSATS ABTD. I'm 21 years old and i'm basically from Sargodha, Punjab, Pakistan. I completed my Matric and FSC from my hometown Sargodha. And i'm doing my graduation from COMSATS university ABTD campus doing bachelours in Computer Science.
+
+        </b>
+        </h2>
+        <h><br>
+            My hobbies are:
+            </br></h>
+            <table border = "3">
+                <tr>
+                    <th>
+                        1. Reading</th>
+                        <th>
+                            2. Hiking</th>
+                            </tr>
+                            <tr>
+                                <td>
+                                    3. Playing Cricket </td>
+                                    <td>
+                                        4. Extra Co-curricular activities</td>
+                                        </tr>
+                </table>
+    </body>
+</html>
